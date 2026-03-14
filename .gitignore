@@ -1,0 +1,38 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.out.exe
+stage1
+stage2
+stage3
+stage4
+stage5
+stage6
+
+# Debug files
+*.dSYM/
+*.dmp
+*.stackdump
+
+# Temporary files
+*~
+*.tmp
+*.swp
+*.bak
+
+# IDE/editor files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
+
+# Mac OS files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
